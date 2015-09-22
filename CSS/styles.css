@@ -7,3 +7,21 @@ h1, h2, h3, h4, h5, h6 {
 p, li {
   font-family: 'Domine', serif;
 }
+
+.header {
+  height: 300px;
+  padding-bottom: 150px;
+  background-image: url("../img/hal.jpg");
+  background-repeat: no-repeat;
+
+}
+
+h1, h2 {
+  color: #fff;
+  text-align: center;
+}
+
+h2 {
+  font-size: 10vw;
+
+}
