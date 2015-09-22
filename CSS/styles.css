@@ -1,0 +1,9 @@
+/*FYI google fonts link for html head <link href='https://fonts.googleapis.com/css?family=Montserrat|Domine' rel='stylesheet' type='text/css'>*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p, li {
+  font-family: 'Domine', serif;
+}
