@@ -1,0 +1,44 @@
+/*FYI google fonts link for html head <link href='https://fonts.googleapis.com/css?family=Montserrat|Domine' rel='stylesheet' type='text/css'>*/
+html{
+  /*max-width: 960px;*/
+  margin-left: auto;
+  margin-right: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p, li {
+  font-family: 'Domine', serif;
+}
+
+/*.jumbotron {
+
+  background: url("../img/hal.jpg");
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
+
+}
+*/
+.jumbotron h1 {
+  color: #fff;
+  font-size: 10vw;
+}
+h2 {
+  color: #fff;
+  font-size: 6vw;
+
+}
+.nav nav-pills {
+  background: black;
+  color: white;
+}
+
+.info {
+  display: block;
+}
+
+.col-lg-4 {
+  float: left;
+}
