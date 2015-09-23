@@ -1,9 +1,36 @@
-/*FYI google fonts link for html head <link href='https://fonts.googleapis.com/css?family=Montserrat|Domine' rel='stylesheet' type='text/css'>*/
-html{
-  /*max-width: 960px;*/
+body {
+  background-color: #000;
+}
+
+.wrapper{
+  background-color: #7899A2;
+  width: 100%;
+  min-width: 960px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }
+
+
+.header{
+  background-image: url(../img/hal.jpg);
+  background-position: center;
+  height: 300px;
+}
+
+.header h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 10em;
+}
+
+.header h2 {
+  text-align: center;
+  color: #fff;
+  font-size: 7em;
+}
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
@@ -12,33 +39,47 @@ p, li {
   font-family: 'Domine', serif;
 }
 
-/*.jumbotron {
-
-  background: url("../img/hal.jpg");
-  background-size: cover;
-  position: absolute;
-  overflow: hidden;
-
-}
-*/
-.jumbotron h1 {
-  color: #fff;
-  font-size: 10vw;
 }
 h2 {
   color: #fff;
   font-size: 6vw;
 
 }
-.nav nav-pills {
+.nav-pills
+{
   background: black;
   color: white;
+  font-size: 3rem;
 }
+ .nav-pills a:visited {
+   color: white;
+ }
+
+ .nav-pills a:hover {
+   color: red;
+   background-color: white;
+ }
 
 .info {
   display: block;
 }
 
-.col-lg-4 {
+.info p{
+  font-size: 1.5em;
+
+}
+ img {
+   display: block;
+   float: left;
+   max-width: 300px;
+ }
+.pics-row {
+  background-color: #000;
+  height: 500px;
+}
+
+.pics-row div {
+  display: block;
   float: left;
+  color: #fff;
 }
