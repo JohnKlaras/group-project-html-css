@@ -1,6 +1,6 @@
-# Group Page about Bot Buster. Intro to Programming Fall 2015.
+# Group Page about Bot Buster. 
 
-##### Original draft September 2015.
+##### Intro to Programming Fall 2015. 9.23.15.
 
 #### By: **Jeff Seymour, Garrett Carver, Rick Klaras, and Nathan Romike**
 
