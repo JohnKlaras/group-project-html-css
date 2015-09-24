@@ -1,5 +1,6 @@
 body {
   background-color: #000;
+  color: white;
 }
 
 .wrapper{
@@ -22,12 +23,14 @@ body {
   text-align: center;
   color: #fff;
   font-size: 10em;
+  font-family: 'Montserrat Subrayada', sans-serif;
 }
 
 .header h2 {
   text-align: center;
   color: #fff;
   font-size: 7em;
+  font-family: 'Montserrat Subrayada', sans-serif;
 }
 }
 
@@ -84,3 +87,7 @@ h2 {
   color: #fff;
   margin: 3%;
 }
+
+.about img {
+  padding: 10px;
+  }
